@@ -3240,7 +3240,6 @@ abstract class StateProvider
             ['id' => '3250', 'country_id' => '202', 'name' => 'umtentweni'],
             ['id' => '3251', 'country_id' => '202', 'name' => 'western cape'],
             ['id' => '3252', 'country_id' => '203', 'name' => 'south georgia'],
-            ['id' => '3253', 'country_id' => '204', 'name' => 'central equatoria'],
             ['id' => '3254', 'country_id' => '205', 'name' => 'a coruna'],
             ['id' => '3255', 'country_id' => '205', 'name' => 'alacant'],
             ['id' => '3256', 'country_id' => '205', 'name' => 'alava'],

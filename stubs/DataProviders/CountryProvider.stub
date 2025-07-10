@@ -207,7 +207,6 @@ abstract class CountryProvider
             ['id' => '201', 'name' => 'somalia'],
             ['id' => '202', 'name' => 'south africa'],
             ['id' => '203', 'name' => 'south georgia'],
-            ['id' => '204', 'name' => 'south sudan'],
             ['id' => '205', 'name' => 'spain'],
             ['id' => '206', 'name' => 'sri lanka'],
             ['id' => '207', 'name' => 'sudan'],

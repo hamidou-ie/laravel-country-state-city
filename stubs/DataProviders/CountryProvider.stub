@@ -76,7 +76,6 @@ abstract class CountryProvider
             ['id' => '67', 'name' => 'eritrea'],
             ['id' => '68', 'name' => 'estonia'],
             ['id' => '69', 'name' => 'ethiopia'],
-            ['id' => '70', 'name' => 'external territories of australia'],
             ['id' => '71', 'name' => 'falkland islands'],
             ['id' => '72', 'name' => 'faroe islands'],
             ['id' => '73', 'name' => 'fiji islands'],
@@ -161,7 +160,6 @@ abstract class CountryProvider
             ['id' => '152', 'name' => 'nauru'],
             ['id' => '153', 'name' => 'nepal'],
             ['id' => '154', 'name' => 'netherlands antilles'],
-            ['id' => '155', 'name' => 'netherlands the'],
             ['id' => '156', 'name' => 'new caledonia'],
             ['id' => '157', 'name' => 'new zealand'],
             ['id' => '158', 'name' => 'nicaragua'],
@@ -205,7 +203,6 @@ abstract class CountryProvider
             ['id' => '196', 'name' => 'singapore'],
             ['id' => '197', 'name' => 'slovakia'],
             ['id' => '198', 'name' => 'slovenia'],
-            ['id' => '199', 'name' => 'smaller territories of the uk'],
             ['id' => '200', 'name' => 'solomon islands'],
             ['id' => '201', 'name' => 'somalia'],
             ['id' => '202', 'name' => 'south africa'],
@@ -250,7 +247,6 @@ abstract class CountryProvider
             ['id' => '241', 'name' => 'wallis and futuna islands'],
             ['id' => '242', 'name' => 'western sahara'],
             ['id' => '243', 'name' => 'yemen'],
-            ['id' => '244', 'name' => 'yugoslavia'],
             ['id' => '245', 'name' => 'zambia'],
             ['id' => '246', 'name' => 'zimbabwe']
         ];
